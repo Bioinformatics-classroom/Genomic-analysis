@@ -37,7 +37,7 @@ Vous avez jusqu'à aujourd'hui, jeudi 17 mai 2018 à 18 h 00 CEST pour répond
 Trois variations sont identifiées chez un patient avec un syndrome de Pitt-Hopkins :
 1. `NC_000018.9:g.52895531T>C`
 2. `NC_000018.9:g.52999284delG`
-3. `NC_000018.9:g. 53331929C>A`
+3. `NC_000018.9:g.53331929C>A`
 
 - Q1 À quelle séquence de référence ces notations se réfèrent-elles ?
 - Q2 Sur quel chromosome se trouvent ces variants ?
