@@ -78,11 +78,10 @@ Une variation hétérozygote est identifiée chez un patient avec petite taille 
 Il existe plusieurs formats d’entrée dans VEP. Vous pouvez utiliser celui-ci : `SHOX:c.399G>C`
 Ajoutez l’option pour avoir les numéros de transcrits Ensembl et RefSeq. Laissez les autres options par défaut. `VEP`
 - Q17 Pourquoi existe-t-il plusieurs lignes alors que vous n’avez saisi qu’un seul variant ?
-- Q18 Exportez le résultat de cette requête au format VCF.
-- Q19 Analysez ce VCF dans wAnnovar. Utilisez votre adresse mail universitaire. Collez l’URL de l’analyse dans le fichier de réponse. `wAnnovar`
+- Q18 et Q19 Exportez le résultat de cette requête VEP au format VCF et analysez ce VCF dans wAnnovar. Utilisez votre adresse mail universitaire pour wAnnovar. Collez l’URL de l’analyse wAnnovar dans le fichier de réponse. `wAnnovar`
 - Q20 Trouver l’article des recommandations de l’ACMG sur l’interprétation des variants de séquence (*Standards and guidelines for the interpretation of sequence variants*, Richards *et al.*, Genet. Med., 2015). Quel est le DOI de l’article ? `Pubmed`
 - Q21 D’après cet article, quels sont les critères déterminant une variation pathogène ou probablement pathogène ? (100 mots maximum, environ 8 à 10 critères attendus, exemple : « ségrégation du variant dans la famille »).
-- Q22 Dans quelle catégorie classez-vous le variant `NM_000451.3:c.399G>C` (pathogène, probablement pathogène, probablement bénin, bénin, VOUS) ? Sur quels critères ? `VEP` `wANNOVAR`
+- Q22 Dans quelle catégorie classez-vous le variant `NM_000451.3:c.399G>C` (pathogène, probablement pathogène, probablement bénin, bénin, VOUS) ? Sur quels critères ?
 Voici quelques éléments d'orientation pour certains de ces critères :
   - PS1 : `LOVD` `ClinVar`
   - PS2 : énoncé
@@ -90,4 +89,3 @@ Voici quelques éléments d'orientation pour certains de ces critères :
   - PS4 : `GnomAD` `1000 Genomes` `Exome Variant Server`
   - PM1 : `NCBI (protein)`
   - PP3 : `VEP` `wANNOVAR`
-  - Autres : `VEP` `wANNOVAR`
